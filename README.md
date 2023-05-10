@@ -1,24 +1,14 @@
-## Libraries ##
+## Technologies ##
 
-- _Hilt_
-- _Android navigation_
-- _Retrofit_
-- _Android navigation_
-- _Room_
-- _Gson_
+- _Kotlin_
+- _XML_
+- _SQL_
 - _Lottie_
 
 ## APK ##
 
-[APK](https://drive.google.com/file/d/1f6dkYRJ5eEJithFMzpKDrQbETQN7mJGE/view?usp=sharing)
+[APK](https://drive.google.com/file/d/1wLTV_ASK2Nm272rUfcP7V628ItDtVYwh/view?usp=sharing)
 
-## References ##
-
-[Architecture Android](https://github.com/Eli-Fox/LEGO-Catalog)
-
-[Guide to app architecture](https://developer.android.com/jetpack/guide)
-
-[Eli-Fox LEGO ](https://proandroiddev.com/android-architecture-starring-kotlin-coroutines-jetpack-mvvm-room-paging-retrofit-and-dagger-7749b2bae5f7)
 
 ## Views ##
 
@@ -41,7 +31,3 @@
 ## Video ##
 [IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1UPa0E_qRxZA-Y5ZOh4vV4lPit3HwLnFs/view?usp=share_link)
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
