@@ -25,7 +25,7 @@
 1.
 ![SplashScree](screen/one.jpg)
 
-!<img align="left" width="100" height="100" src="https://picsum.photos/100/100">
+!<img align="left" width="300" height="300" src="screen/001.jpg">
 ![App](screen/two.jpg)
 
 2.
