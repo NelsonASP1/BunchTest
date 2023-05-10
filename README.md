@@ -23,7 +23,7 @@
 ## Views ##
 
 1.
-![SplashScree](screen/one.jpg)
+![SplashScree](screen/numerouno.jpg)
 
 !<img src="screen/numerouno.jpg" alt="JetNews" width="240"><
 ![App](screen/two.jpg)
