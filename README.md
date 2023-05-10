@@ -25,7 +25,7 @@
 1.
 ![SplashScree](screen/one.jpg)
 
-!<img align="left" width="300" height="300" src="screen/001.jpg">
+!<img align="left" width="300" height="300" src="screen/numerouno.jpg">
 ![App](screen/two.jpg)
 
 2.
