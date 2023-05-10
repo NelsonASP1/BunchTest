@@ -25,7 +25,7 @@
 1.
 ![SplashScree](screen/numerouno.jpg)
 
-!<img src="screen/numerouno.jpg" alt="JetNews" width="240">
+<img src="screen/numerouno.jpg" alt="JetNews" width="240">
 ![App](screen/two.jpg)
 
 2.
