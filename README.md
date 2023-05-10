@@ -37,9 +37,5 @@
 | <br><img src="screen/007.jpg" alt="Rally" width="240"></img>  <br><br>A Compose implementation of the Rally Material study, a financial app that focuses on data, charts, reusability and animations.<br><br>• Low complexity<br>• Material theming with a dark-only theme<br>• Custom layouts and reusable elements<br>• Charts and tables<br>• Animations<br>• Screenshot tests<br><br>**[> Browse](Rally/)** <br><br>                                                                                                                             | <img src="screen/077.jpg" width="320" alt="Rally sample demo">                               |
 |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |                                                                                              |
 
-[![IMAGE ALT TEXT HERE](screen/005.jpg)](screen/video.mp4)
+[![IMAGE ALT TEXT HERE](https://drive.google.com/file/d/1UPa0E_qRxZA-Y5ZOh4vV4lPit3HwLnFs/view?usp=share_link)]
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-  <img src="your_relative_path_here_number_2_large_name" width="350" alt="accessibility text">
-</p>
